@@ -3,5 +3,7 @@ public class Main {
         System.out.println("Hello world!");
 
         // work 1
+
+        // work 2
     }
 }
